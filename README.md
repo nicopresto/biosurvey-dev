@@ -1,4 +1,5 @@
 biosurvey-dev
 =============
 
-Redirect from EHNet workshop
+This content has moved to:
+https://github.com/nicopresto/gecho
